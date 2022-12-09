@@ -5,4 +5,6 @@ Treinamento do bootcamp trainee lideranças negras
 
 Até agora ainda não consegui localizar a pasta no git. quando peço para salvar as alterações aparece um erro como se o arquivo não estivesse sido encontrado na pasta ]]
 
-{##Links Uteis} {https://www.markdownguide.org/basic-syntax/)
+##Links Uteis
+
+{Sintaxe Basica Markdown} {https://www.markdownguide.org/basic-syntax/)
