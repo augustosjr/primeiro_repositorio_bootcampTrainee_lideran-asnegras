@@ -23,6 +23,51 @@ Problema resolvido, não estava conseguindo clonar o projeto, esse video, ensina
 
 ##Analise e levantamento de Requisitos
 
+A fase de requisitos é a principal na elaboração de qualquer dispositivo, contudo, antes mesmo do código ser executado pelo programador, existem inumeras metodologias que visam buscar informações que possam contribuir para aplicação..  compartilho aqui, algumas anotações que fiz durante as aulas de Analise e levantamentos de requisitos.
+
+
+##Entrevista estruturada 
+
+A entrevista estruturada é uma metodologia de pesquisa quantitativa de entrevistas por meio de  aplicação de questionários, durante a  fase de pesquisa é muito importante que as perguntas sejam simplificadas e diretas não gerando duvidas no entrevistando relativas as respostas.  Durante o processo de elaboração de uma entrevista estruturada é necessário que o pesquisador tenha um roteiro previamente elaborado com perguntas chaves com os temas relacionados ao sistema a ser implementado. Esses dados quantificados é de extrema importância durante toda construção da aplicação, através dessa etapa é possível visualizar as decisões a ser tomada na hora de traçar estratégias para o negócio
+ 
+Uma empresa de produtos orgânicos deseja expandir seu negocio para mais cidades da região, por não ter dados concretos sobre renda, tipo de produto, e valor a ser comercializado. O produtor chama uma equipe para realizar questionários para obtenção de dados referentes ao negocio, para criar um aplicativo onde os usuários façam seu cadastro e faça os pedidos pelo aplicativo, além de receber informações sobre os processos sustentáveis do sitio. A intenção do produtor é trazer sensação ao usuario de estar consumindo um produto livre de agrotóxicos e o aproximar do processo do produto que chegará em sua casa.
+ 
+##Exemplo Prático, desenvolvido por mim de uma possivel aplicação de uma fazenda que deseja expandir seu negócio com produtos orgânicos
+
+Você possui algum aparelho com acesso a internet?
+ 
+Sim()
+Não()
+ 
+Se sua resposta for sim. Qual dispositivo?
+ 
+Celular ()
+Computador()
+ 
+Você sabe o que é um produto orgânico?
+ 
+Sim()
+Não()
+ 
+Você sabe o que é uma produção sustentável?
+ 
+Sim ()
+Não()
+ 
+Em Qual cidade você reside
+ 
+Parelhas - RN ()
+Junco do Seridó - PB ()
+Equador - RN ()
+Currais Novos -RN ()
+ 
+Você importante saber a origem do alimento que chega em sua Casa
+Sim ()
+Não()
+Tanto Faz()
+
+
+
 
 	1. Imersão em profundidade
 Etnografia; 
@@ -78,3 +123,5 @@ Etnografia;
 	• Atuação como sombra apenas observando sem interagir ou intervir
 	• Obter informações importantes para o negocio
 	• Entendimento mais rico sobre comportamento, emoções, sentimentos, nas expectativas e hábitos do usuario final
+
+
